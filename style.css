@@ -1,0 +1,40 @@
+body {
+    font-size: 75%;
+    font-family:"Segoe UI", Verdana, Helvetica, Sans-Serif;
+}
+#body {
+    clear: both;
+    margin: 0 auto;
+    max-width: 534px;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-top: 0.75em;
+    border: 0 none;
+    margin-top:35px;
+}
+#body td {
+    padding:15px 30px 15px 10px;
+}
+#body tr td:nth-child(1) {
+    font-weight:bold;
+}
+#address {
+    width:400px;
+}
+
+html,body{
+    width: 100%;
+    padding: 0;
+    background-color: azure;
+}
+
+.box{
+    margin: 0 auto;
+    padding-top: 2%;
+    background-color: white;
+    max-width: 540px;
+    border-radius: 15px;
+    box-shadow:  10px 10px 5px #888888;
+}
